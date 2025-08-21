@@ -1,0 +1,22 @@
+.monitor-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.antrian-card {
+    width: 250px;
+    height: 180px;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+}
+
+.antrian-card h1 {
+    font-size: 3rem;
+    margin: 10px 0;
+}

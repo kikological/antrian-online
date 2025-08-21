@@ -1,0 +1,58 @@
+        footer {
+            background-color: rgb(10, 97, 190);
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: auto;
+        }
+
+        .logo {
+            max-height: 40px;
+            width: auto;
+            object-fit: contain;
+        }
+
+        .button-container {
+            margin-top: 50px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .layanan-button {
+            background-color: rgb(3, 69, 139);
+            color: white;
+            border: none;
+            padding: 40px 60px;
+            font-size: 32px;
+            border-radius: 16px;
+            cursor: pointer;
+            min-width: 300px;
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+            transition: background-color 0.2s ease;
+            word-wrap: break-word;
+        }
+
+        .layanan-button:hover {
+            background-color: #0056b3;
+        }
+
+        @media (max-width: 768px) {
+            .layanan-button {
+                font-size: 24px;
+                padding: 30px 40px;
+                min-width: 80%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .layanan-button {
+                font-size: 20px;
+                padding: 20px 30px;
+            }
+        }

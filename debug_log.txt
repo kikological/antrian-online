@@ -1,0 +1,636 @@
+[2025-05-27 23:01:34] RAW POST: {"kode":"B-18","layanan":"Poli Khusus"}
+[2025-05-27 23:01:34] PARSED DATA: {"kode":"B-18","layanan":"Poli Khusus"}
+[2025-05-27 23:01:34] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:01:35] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:01:35] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:01:35] ✅ Cetak sukses.
+[2025-05-27 23:10:42] RAW POST: {"kode":"B-19","layanan":"Poli Khusus"}
+[2025-05-27 23:10:42] PARSED DATA: {"kode":"B-19","layanan":"Poli Khusus"}
+[2025-05-27 23:10:42] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:10:42] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:10:42] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:10:42] ✅ Cetak sukses.
+[2025-05-27 23:10:47] RAW POST: {"kode":"A-15","layanan":"Poli Umum"}
+[2025-05-27 23:10:47] PARSED DATA: {"kode":"A-15","layanan":"Poli Umum"}
+[2025-05-27 23:10:47] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:10:47] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:10:47] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:10:47] ✅ Cetak sukses.
+[2025-05-27 23:10:57] RAW POST: {"kode":"F-2","layanan":"Lansia"}
+[2025-05-27 23:10:57] PARSED DATA: {"kode":"F-2","layanan":"Lansia"}
+[2025-05-27 23:10:57] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:10:57] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:10:57] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:10:57] ✅ Cetak sukses.
+[2025-05-27 23:11:19] RAW POST: {"kode":"A-16","layanan":"Poli Umum"}
+[2025-05-27 23:11:19] PARSED DATA: {"kode":"A-16","layanan":"Poli Umum"}
+[2025-05-27 23:11:19] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:11:19] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:11:19] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:11:20] ✅ Cetak sukses.
+[2025-05-27 23:11:21] RAW POST: {"kode":"B-20","layanan":"Poli Khusus"}
+[2025-05-27 23:11:21] PARSED DATA: {"kode":"B-20","layanan":"Poli Khusus"}
+[2025-05-27 23:11:21] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:11:21] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:11:21] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:11:21] ✅ Cetak sukses.
+[2025-05-27 23:11:21] RAW POST: {"kode":"C-5","layanan":"Poli Gigi"}
+[2025-05-27 23:11:21] PARSED DATA: {"kode":"C-5","layanan":"Poli Gigi"}
+[2025-05-27 23:11:21] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:11:21] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:11:21] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:11:21] ✅ Cetak sukses.
+[2025-05-27 23:11:21] RAW POST: {"kode":"D-3","layanan":"Poli Gizi"}
+[2025-05-27 23:11:21] PARSED DATA: {"kode":"D-3","layanan":"Poli Gizi"}
+[2025-05-27 23:11:21] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:11:21] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:11:21] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:11:22] ✅ Cetak sukses.
+[2025-05-27 23:11:22] RAW POST: {"kode":"F-3","layanan":"Lansia"}
+[2025-05-27 23:11:22] PARSED DATA: {"kode":"F-3","layanan":"Lansia"}
+[2025-05-27 23:11:22] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:11:22] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:11:22] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:11:22] ✅ Cetak sukses.
+[2025-05-27 23:11:22] RAW POST: {"kode":"E-8","layanan":"Poli Anak"}
+[2025-05-27 23:11:22] PARSED DATA: {"kode":"E-8","layanan":"Poli Anak"}
+[2025-05-27 23:11:22] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:11:22] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:11:22] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:11:22] ✅ Cetak sukses.
+[2025-05-27 23:11:30] RAW POST: {"kode":"F-4","layanan":"Lansia"}
+[2025-05-27 23:11:30] PARSED DATA: {"kode":"F-4","layanan":"Lansia"}
+[2025-05-27 23:11:30] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:11:30] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:11:30] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:11:30] ✅ Cetak sukses.
+[2025-05-27 23:13:47] RAW POST: {"kode":"B-21","layanan":"Poli Khusus"}
+[2025-05-27 23:13:47] PARSED DATA: {"kode":"B-21","layanan":"Poli Khusus"}
+[2025-05-27 23:13:47] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:13:47] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:13:47] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:13:47] ✅ Cetak sukses.
+[2025-05-27 23:13:49] RAW POST: {"kode":"C-6","layanan":"Poli Gigi"}
+[2025-05-27 23:13:49] PARSED DATA: {"kode":"C-6","layanan":"Poli Gigi"}
+[2025-05-27 23:13:49] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:13:49] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:13:49] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:13:49] ✅ Cetak sukses.
+[2025-05-27 23:13:50] RAW POST: {"kode":"D-4","layanan":"Poli Gizi"}
+[2025-05-27 23:13:50] PARSED DATA: {"kode":"D-4","layanan":"Poli Gizi"}
+[2025-05-27 23:13:50] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:13:50] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:13:50] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:13:50] ✅ Cetak sukses.
+[2025-05-27 23:14:47] RAW POST: {"kode":"B-22","layanan":"Poli Khusus"}
+[2025-05-27 23:14:47] PARSED DATA: {"kode":"B-22","layanan":"Poli Khusus"}
+[2025-05-27 23:14:47] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:14:47] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:14:47] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:14:47] ✅ Cetak sukses.
+[2025-05-27 23:15:01] RAW POST: {"kode":"F-5","layanan":"Lansia"}
+[2025-05-27 23:15:01] PARSED DATA: {"kode":"F-5","layanan":"Lansia"}
+[2025-05-27 23:15:01] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:15:01] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:15:01] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:15:01] ✅ Cetak sukses.
+[2025-05-27 23:15:42] RAW POST: {"kode":"F-6","layanan":"Lansia"}
+[2025-05-27 23:15:42] PARSED DATA: {"kode":"F-6","layanan":"Lansia"}
+[2025-05-27 23:15:42] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-27 23:15:42] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-27 23:15:42] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-27 23:15:42] ✅ Cetak sukses.
+[2025-05-28 17:44:50] RAW POST: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 17:44:50] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 17:44:50] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 17:44:50] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 17:44:50] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 17:44:50] ✅ Cetak sukses.
+[2025-05-28 17:45:34] RAW POST: {"kode":"F-1","layanan":"Lansia"}
+[2025-05-28 17:45:34] PARSED DATA: {"kode":"F-1","layanan":"Lansia"}
+[2025-05-28 17:45:34] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 17:45:34] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 17:45:34] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 17:45:34] ✅ Cetak sukses.
+[2025-05-28 20:39:23] RAW POST: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 20:39:23] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 20:39:23] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 20:39:23] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 20:39:23] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 20:39:24] ✅ Cetak sukses.
+[2025-05-28 20:39:27] RAW POST: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 20:39:27] PARSED DATA: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 20:39:27] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 20:39:27] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 20:39:27] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 20:39:27] ✅ Cetak sukses.
+[2025-05-28 20:39:30] RAW POST: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-28 20:39:30] PARSED DATA: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-28 20:39:30] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 20:39:30] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 20:39:30] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 20:39:30] ✅ Cetak sukses.
+[2025-05-28 21:18:41] RAW POST: {"kode":"A-2","layanan":"Poli Umum"}
+[2025-05-28 21:18:41] PARSED DATA: {"kode":"A-2","layanan":"Poli Umum"}
+[2025-05-28 21:18:41] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:18:41] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:18:41] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:18:41] ✅ Cetak sukses.
+[2025-05-28 21:18:43] RAW POST: {"kode":"A-3","layanan":"Poli Umum"}
+[2025-05-28 21:18:43] PARSED DATA: {"kode":"A-3","layanan":"Poli Umum"}
+[2025-05-28 21:18:43] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:18:43] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:18:43] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:18:43] ✅ Cetak sukses.
+[2025-05-28 21:20:49] RAW POST: {"kode":"A-4","layanan":"Poli Umum"}
+[2025-05-28 21:20:49] PARSED DATA: {"kode":"A-4","layanan":"Poli Umum"}
+[2025-05-28 21:20:49] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:20:49] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:20:49] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:20:49] ✅ Cetak sukses.
+[2025-05-28 21:20:52] RAW POST: {"kode":"A-5","layanan":"Poli Umum"}
+[2025-05-28 21:20:52] PARSED DATA: {"kode":"A-5","layanan":"Poli Umum"}
+[2025-05-28 21:20:52] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:20:52] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:20:52] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:20:52] ✅ Cetak sukses.
+[2025-05-28 21:20:55] RAW POST: {"kode":"A-6","layanan":"Poli Umum"}
+[2025-05-28 21:20:55] PARSED DATA: {"kode":"A-6","layanan":"Poli Umum"}
+[2025-05-28 21:20:55] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:20:55] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:20:55] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:20:55] ✅ Cetak sukses.
+[2025-05-28 21:21:08] RAW POST: {"kode":"A-7","layanan":"Poli Umum"}
+[2025-05-28 21:21:08] PARSED DATA: {"kode":"A-7","layanan":"Poli Umum"}
+[2025-05-28 21:21:08] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:21:08] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:21:08] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:21:08] ✅ Cetak sukses.
+[2025-05-28 21:21:11] RAW POST: {"kode":"A-8","layanan":"Poli Umum"}
+[2025-05-28 21:21:11] PARSED DATA: {"kode":"A-8","layanan":"Poli Umum"}
+[2025-05-28 21:21:11] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:21:11] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:21:11] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:21:11] ✅ Cetak sukses.
+[2025-05-28 21:21:13] RAW POST: {"kode":"A-9","layanan":"Poli Umum"}
+[2025-05-28 21:21:13] PARSED DATA: {"kode":"A-9","layanan":"Poli Umum"}
+[2025-05-28 21:21:13] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:21:13] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:21:13] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:21:14] ✅ Cetak sukses.
+[2025-05-28 21:22:36] RAW POST: {"kode":"B-2","layanan":"Poli Khusus"}
+[2025-05-28 21:22:36] PARSED DATA: {"kode":"B-2","layanan":"Poli Khusus"}
+[2025-05-28 21:22:36] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:22:36] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:22:36] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:22:36] ✅ Cetak sukses.
+[2025-05-28 21:22:39] RAW POST: {"kode":"B-3","layanan":"Poli Khusus"}
+[2025-05-28 21:22:39] PARSED DATA: {"kode":"B-3","layanan":"Poli Khusus"}
+[2025-05-28 21:22:39] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:22:39] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:22:39] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:22:40] ✅ Cetak sukses.
+[2025-05-28 21:28:27] RAW POST: {"kode":"C-2","layanan":"Poli Gigi"}
+[2025-05-28 21:28:27] PARSED DATA: {"kode":"C-2","layanan":"Poli Gigi"}
+[2025-05-28 21:28:27] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:28:27] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:28:27] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:28:28] ✅ Cetak sukses.
+[2025-05-28 21:28:38] RAW POST: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 21:28:38] PARSED DATA: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 21:28:38] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:28:38] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:28:38] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:28:39] ✅ Cetak sukses.
+[2025-05-28 21:30:12] RAW POST: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-28 21:30:12] PARSED DATA: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-28 21:30:12] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 21:30:13] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 21:30:13] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 21:30:13] ✅ Cetak sukses.
+[2025-05-28 22:13:21] RAW POST: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:13:21] PARSED DATA: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:13:21] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:13:21] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:13:21] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:13:21] ✅ Cetak sukses.
+[2025-05-28 22:13:24] RAW POST: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:13:24] PARSED DATA: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:13:24] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:13:24] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:13:24] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:13:24] ✅ Cetak sukses.
+[2025-05-28 22:14:30] RAW POST: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:14:30] PARSED DATA: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:14:30] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:14:30] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:14:30] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:14:30] ✅ Cetak sukses.
+[2025-05-28 22:14:32] RAW POST: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:14:32] PARSED DATA: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:14:32] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:14:32] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:14:32] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:14:32] ✅ Cetak sukses.
+[2025-05-28 22:15:10] RAW POST: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:15:10] PARSED DATA: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:15:10] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:15:10] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:15:10] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:15:10] ✅ Cetak sukses.
+[2025-05-28 22:15:13] RAW POST: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:15:13] PARSED DATA: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:15:13] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:15:13] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:15:13] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:15:13] ✅ Cetak sukses.
+[2025-05-28 22:15:15] RAW POST: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-28 22:15:15] PARSED DATA: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-28 22:15:15] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:15:15] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:15:15] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:15:15] ✅ Cetak sukses.
+[2025-05-28 22:15:18] RAW POST: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 22:15:18] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 22:15:18] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:15:18] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:15:18] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:15:18] ✅ Cetak sukses.
+[2025-05-28 22:16:21] RAW POST: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:16:21] PARSED DATA: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:16:21] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:16:21] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:16:21] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:16:21] ✅ Cetak sukses.
+[2025-05-28 22:16:24] RAW POST: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-28 22:16:24] PARSED DATA: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-28 22:16:24] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:16:24] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:16:24] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:16:24] ✅ Cetak sukses.
+[2025-05-28 22:16:26] RAW POST: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-28 22:16:26] PARSED DATA: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-28 22:16:26] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:16:26] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:16:26] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:16:26] ✅ Cetak sukses.
+[2025-05-28 22:16:29] RAW POST: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 22:16:29] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 22:16:29] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:16:29] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:16:29] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:16:29] ✅ Cetak sukses.
+[2025-05-28 22:16:32] RAW POST: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:16:32] PARSED DATA: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:16:32] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:16:32] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:16:32] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:16:32] ✅ Cetak sukses.
+[2025-05-28 22:16:34] RAW POST: {"kode":"E-2","layanan":"Poli Anak"}
+[2025-05-28 22:16:34] PARSED DATA: {"kode":"E-2","layanan":"Poli Anak"}
+[2025-05-28 22:16:34] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:16:34] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:16:34] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:16:34] ✅ Cetak sukses.
+[2025-05-28 22:17:39] RAW POST: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-28 22:17:39] PARSED DATA: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-28 22:17:39] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:17:39] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:17:39] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:17:39] ✅ Cetak sukses.
+[2025-05-28 22:17:41] RAW POST: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:17:41] PARSED DATA: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:17:41] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:17:41] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:17:41] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:17:41] ✅ Cetak sukses.
+[2025-05-28 22:17:44] RAW POST: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:17:44] PARSED DATA: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:17:44] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:17:44] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:17:44] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:17:44] ✅ Cetak sukses.
+[2025-05-28 22:58:12] RAW POST: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 22:58:12] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-28 22:58:12] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:58:12] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:58:12] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:58:12] ✅ Cetak sukses.
+[2025-05-28 22:58:15] RAW POST: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:58:15] PARSED DATA: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-28 22:58:15] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:58:15] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:58:15] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:58:15] ✅ Cetak sukses.
+[2025-05-28 22:58:18] RAW POST: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-28 22:58:18] PARSED DATA: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-28 22:58:18] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:58:18] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:58:18] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:58:18] ✅ Cetak sukses.
+[2025-05-28 22:58:21] RAW POST: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:58:21] PARSED DATA: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-28 22:58:21] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:58:21] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:58:21] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:58:21] ✅ Cetak sukses.
+[2025-05-28 22:58:23] RAW POST: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-28 22:58:23] PARSED DATA: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-28 22:58:23] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:58:23] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:58:23] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:58:23] ✅ Cetak sukses.
+[2025-05-28 22:58:26] RAW POST: {"kode":"B-2","layanan":"Poli Khusus"}
+[2025-05-28 22:58:26] PARSED DATA: {"kode":"B-2","layanan":"Poli Khusus"}
+[2025-05-28 22:58:26] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:58:26] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:58:26] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:58:26] ✅ Cetak sukses.
+[2025-05-28 22:58:28] RAW POST: {"kode":"D-2","layanan":"Poli Gizi"}
+[2025-05-28 22:58:28] PARSED DATA: {"kode":"D-2","layanan":"Poli Gizi"}
+[2025-05-28 22:58:28] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-22 10:25:20","nama_printer":"RONGTA 58mm Series Printer"}
+[2025-05-28 22:58:28] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-28 22:58:28] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-28 22:58:29] ✅ Cetak sukses.
+[2025-05-29 12:28:04] RAW POST: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-29 12:28:04] PARSED DATA: {"kode":"B-1","layanan":"Poli Khusus"}
+[2025-05-29 12:28:04] Mode cetak: printer biasa
+[2025-05-29 12:28:04] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:29:07] RAW POST: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-29 12:29:07] PARSED DATA: {"kode":"C-1","layanan":"Poli Gigi"}
+[2025-05-29 12:29:07] Mode cetak: printer biasa
+[2025-05-29 12:29:07] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:30:52] RAW POST: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-29 12:30:52] PARSED DATA: {"kode":"D-1","layanan":"Poli Gizi"}
+[2025-05-29 12:30:52] PENGATURAN PRINTER: {"id":"1","path_logo":"uploads\/logo_1747884320.png","judul_cadangan":"PUSKESMAS C","alamat_header":"Jl. G.Obos, Palangka Raya\r\nKode Pos 73113","label_antrian":"NOMOR ANTRIAN","teks_footer":"Silahkan tunggu dipanggil\r\nTerima kasih","aktif":"1","dibuat_pada":"2025-04-05 14:27:14","diperbarui_pada":"2025-05-29 12:30:48","nama_printer":"RONGTA 58mm Series Printer","mode_printer":"escpos"}
+[2025-05-29 12:30:52] Koneksi printer berhasil: RONGTA 58mm Series Printer
+[2025-05-29 12:30:52] Coba load logo: C:\xampp\htdocs\APP_ANTRIANV4\uploads\logo_1747884320.png
+[2025-05-29 12:30:52] ✅ Cetak sukses (ESC/POS)
+[2025-05-29 12:33:56] RAW POST: {"kode":"C-2","layanan":"Poli Gigi"}
+[2025-05-29 12:33:56] PARSED DATA: {"kode":"C-2","layanan":"Poli Gigi"}
+[2025-05-29 12:33:56] Mode cetak: printer biasa
+[2025-05-29 12:33:56] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:40:13] RAW POST: {"kode":"C-3","layanan":"Poli Gigi"}
+[2025-05-29 12:40:13] PARSED DATA: {"kode":"C-3","layanan":"Poli Gigi"}
+[2025-05-29 12:40:13] Mode cetak: printer biasa
+[2025-05-29 12:40:13] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:40:39] RAW POST: {"kode":"D-2","layanan":"Poli Gizi"}
+[2025-05-29 12:40:39] PARSED DATA: {"kode":"D-2","layanan":"Poli Gizi"}
+[2025-05-29 12:40:39] Mode cetak: printer biasa
+[2025-05-29 12:40:39] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:42:22] RAW POST: {"kode":"C-4","layanan":"Poli Gigi"}
+[2025-05-29 12:42:22] PARSED DATA: {"kode":"C-4","layanan":"Poli Gigi"}
+[2025-05-29 12:42:22] Mode cetak: printer biasa
+[2025-05-29 12:42:22] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:43:08] RAW POST: {"kode":"D-3","layanan":"Poli Gizi"}
+[2025-05-29 12:43:08] PARSED DATA: {"kode":"D-3","layanan":"Poli Gizi"}
+[2025-05-29 12:43:08] Mode cetak: printer biasa
+[2025-05-29 12:43:08] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:45:49] RAW POST: {"kode":"C-5","layanan":"Poli Gigi"}
+[2025-05-29 12:45:49] PARSED DATA: {"kode":"C-5","layanan":"Poli Gigi"}
+[2025-05-29 12:45:49] Mode cetak: printer biasa
+[2025-05-29 12:45:49] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:48:56] RAW POST: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-29 12:48:56] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum"}
+[2025-05-29 12:48:56] Mode cetak: printer biasa
+[2025-05-29 12:48:56] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:52:59] RAW POST: {"kode":"C-6","layanan":"Poli Gigi"}
+[2025-05-29 12:52:59] PARSED DATA: {"kode":"C-6","layanan":"Poli Gigi"}
+[2025-05-29 12:52:59] Mode cetak: printer biasa
+[2025-05-29 12:52:59] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:55:58] RAW POST: {"kode":"C-7","layanan":"Poli Gigi"}
+[2025-05-29 12:55:58] PARSED DATA: {"kode":"C-7","layanan":"Poli Gigi"}
+[2025-05-29 12:55:58] Mode cetak: printer biasa
+[2025-05-29 12:55:58] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 12:57:00] RAW POST: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-29 12:57:00] PARSED DATA: {"kode":"E-1","layanan":"Poli Anak"}
+[2025-05-29 12:57:00] Mode cetak: printer biasa
+[2025-05-29 12:57:00] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:04:58] RAW POST: {"kode":"D-4","layanan":"Poli Gizi"}
+[2025-05-29 13:04:58] PARSED DATA: {"kode":"D-4","layanan":"Poli Gizi"}
+[2025-05-29 13:04:58] Mode cetak: printer biasa
+[2025-05-29 13:04:58] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:07:15] RAW POST: {"kode":"A-2","layanan":"Poli Umum"}
+[2025-05-29 13:07:15] PARSED DATA: {"kode":"A-2","layanan":"Poli Umum"}
+[2025-05-29 13:07:15] Mode cetak: printer biasa
+[2025-05-29 13:07:15] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:07:50] RAW POST: {"kode":"E-2","layanan":"Poli Anak"}
+[2025-05-29 13:07:50] PARSED DATA: {"kode":"E-2","layanan":"Poli Anak"}
+[2025-05-29 13:07:50] Mode cetak: printer biasa
+[2025-05-29 13:07:50] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:08:09] RAW POST: {"kode":"A-3","layanan":"Poli Umum"}
+[2025-05-29 13:08:09] PARSED DATA: {"kode":"A-3","layanan":"Poli Umum"}
+[2025-05-29 13:08:09] Mode cetak: printer biasa
+[2025-05-29 13:08:09] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:08:34] RAW POST: {"kode":"A-4","layanan":"Poli Umum"}
+[2025-05-29 13:08:34] PARSED DATA: {"kode":"A-4","layanan":"Poli Umum"}
+[2025-05-29 13:08:34] Mode cetak: printer biasa
+[2025-05-29 13:08:34] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:09:13] RAW POST: {"kode":"C-8","layanan":"Poli Gigi"}
+[2025-05-29 13:09:13] PARSED DATA: {"kode":"C-8","layanan":"Poli Gigi"}
+[2025-05-29 13:09:13] Mode cetak: printer biasa
+[2025-05-29 13:09:13] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:09:41] RAW POST: {"kode":"D-5","layanan":"Poli Gizi"}
+[2025-05-29 13:09:41] PARSED DATA: {"kode":"D-5","layanan":"Poli Gizi"}
+[2025-05-29 13:09:41] Mode cetak: printer biasa
+[2025-05-29 13:09:41] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:10:15] RAW POST: {"kode":"B-2","layanan":"Poli Khusus"}
+[2025-05-29 13:10:15] PARSED DATA: {"kode":"B-2","layanan":"Poli Khusus"}
+[2025-05-29 13:10:15] Mode cetak: printer biasa
+[2025-05-29 13:10:15] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:10:40] RAW POST: {"kode":"B-3","layanan":"Poli Khusus"}
+[2025-05-29 13:10:40] PARSED DATA: {"kode":"B-3","layanan":"Poli Khusus"}
+[2025-05-29 13:10:40] Mode cetak: printer biasa
+[2025-05-29 13:10:40] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:10:55] RAW POST: {"kode":"D-6","layanan":"Poli Gizi"}
+[2025-05-29 13:10:55] PARSED DATA: {"kode":"D-6","layanan":"Poli Gizi"}
+[2025-05-29 13:10:55] Mode cetak: printer biasa
+[2025-05-29 13:10:55] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:11:28] RAW POST: {"kode":"E-3","layanan":"Poli Anak"}
+[2025-05-29 13:11:28] PARSED DATA: {"kode":"E-3","layanan":"Poli Anak"}
+[2025-05-29 13:11:28] Mode cetak: printer biasa
+[2025-05-29 13:11:28] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:11:44] RAW POST: {"kode":"E-4","layanan":"Poli Anak"}
+[2025-05-29 13:11:44] PARSED DATA: {"kode":"E-4","layanan":"Poli Anak"}
+[2025-05-29 13:11:44] Mode cetak: printer biasa
+[2025-05-29 13:11:44] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:12:15] RAW POST: {"kode":"E-5","layanan":"Poli Anak"}
+[2025-05-29 13:12:15] PARSED DATA: {"kode":"E-5","layanan":"Poli Anak"}
+[2025-05-29 13:12:15] Mode cetak: printer biasa
+[2025-05-29 13:12:15] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:14:27] RAW POST: {"kode":"E-6","layanan":"Poli Anak"}
+[2025-05-29 13:14:27] PARSED DATA: {"kode":"E-6","layanan":"Poli Anak"}
+[2025-05-29 13:14:27] Mode cetak: printer biasa
+[2025-05-29 13:14:27] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:29:07] RAW POST: {"kode":"C-9","layanan":"Poli Gigi"}
+[2025-05-29 13:29:07] PARSED DATA: {"kode":"C-9","layanan":"Poli Gigi"}
+[2025-05-29 13:30:38] RAW POST: {"kode":"D-7","layanan":"Poli Gizi"}
+[2025-05-29 13:30:38] PARSED DATA: {"kode":"D-7","layanan":"Poli Gizi"}
+[2025-05-29 13:30:38] ❌ Prepare gagal: Unknown column 'tanggal' in 'field list'
+[2025-05-29 13:30:38] ❌ Gagal simpan ke DB
+[2025-05-29 13:34:28] RAW POST: {"kode":"D-8","layanan":"Poli Gizi"}
+[2025-05-29 13:34:28] PARSED DATA: {"kode":"D-8","layanan":"Poli Gizi"}
+[2025-05-29 13:34:28] Mode cetak: printer biasa
+[2025-05-29 13:34:28] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:34:36] RAW POST: {"kode":"C-10","layanan":"Poli Gigi"}
+[2025-05-29 13:34:36] PARSED DATA: {"kode":"C-10","layanan":"Poli Gigi"}
+[2025-05-29 13:34:36] Mode cetak: printer biasa
+[2025-05-29 13:34:36] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:34:41] RAW POST: {"kode":"D-9","layanan":"Poli Gizi"}
+[2025-05-29 13:34:41] PARSED DATA: {"kode":"D-9","layanan":"Poli Gizi"}
+[2025-05-29 13:34:41] Mode cetak: printer biasa
+[2025-05-29 13:34:41] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:43:26] RAW POST: {"kode":"C-11","layanan":"Poli Gigi"}
+[2025-05-29 13:43:26] PARSED DATA: {"kode":"C-11","layanan":"Poli Gigi"}
+[2025-05-29 13:43:26] Mode cetak: printer biasa (HTML)
+[2025-05-29 13:43:26] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:43:34] RAW POST: {"kode":"C-11","layanan":"Poli Gigi"}
+[2025-05-29 13:43:34] PARSED DATA: {"kode":"C-11","layanan":"Poli Gigi"}
+[2025-05-29 13:43:34] Mode cetak: printer biasa (HTML)
+[2025-05-29 13:43:34] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:43:40] RAW POST: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:43:40] PARSED DATA: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:43:40] Mode cetak: printer biasa (HTML)
+[2025-05-29 13:43:40] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:43:46] RAW POST: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:43:46] PARSED DATA: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:43:46] Mode cetak: printer biasa (HTML)
+[2025-05-29 13:43:46] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:43:58] RAW POST: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:43:58] PARSED DATA: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:43:58] Mode cetak: printer biasa (HTML)
+[2025-05-29 13:43:58] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:44:32] RAW POST: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:44:32] PARSED DATA: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:44:32] Mode cetak: printer biasa (HTML)
+[2025-05-29 13:44:32] ✅ Cetak disiapkan dalam file HTML: print_temp.html
+[2025-05-29 13:47:08] RAW POST: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:47:08] PARSED DATA: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:47:08] ❌ ID layanan tidak valid.
+[2025-05-29 13:49:00] RAW POST: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:49:00] PARSED DATA: {"kode":"B-4","layanan":"Poli Khusus"}
+[2025-05-29 13:49:00] ❌ ID layanan tidak valid.
+[2025-05-29 13:52:15] RAW POST: {"kode":"D-10","layanan":"Poli Gizi"}
+[2025-05-29 13:52:15] PARSED DATA: {"kode":"D-10","layanan":"Poli Gizi"}
+[2025-05-29 13:52:15] ❌ ID layanan tidak valid.
+[2025-05-29 13:54:59] RAW POST: {"kode":"C-11","layanan":"Poli Gigi","id_layanan":23}
+[2025-05-29 13:54:59] PARSED DATA: {"kode":"C-11","layanan":"Poli Gigi","id_layanan":23}
+[2025-05-29 13:54:59] ✅ Data antrian disimpan: C-11 | POLI GIGI
+[2025-05-29 13:54:59] Mode printer HTML biasa
+[2025-05-29 13:54:59] ✅ HTML cetak disiapkan: print_temp.html
+[2025-05-29 13:55:06] RAW POST: {"kode":"C-12","layanan":"Poli Gigi","id_layanan":23}
+[2025-05-29 13:55:06] PARSED DATA: {"kode":"C-12","layanan":"Poli Gigi","id_layanan":23}
+[2025-05-29 13:55:06] ✅ Data antrian disimpan: C-12 | POLI GIGI
+[2025-05-29 13:55:06] Mode printer HTML biasa
+[2025-05-29 13:55:06] ✅ HTML cetak disiapkan: print_temp.html
+[2025-05-29 13:58:42] RAW POST: {"kode":"A-5","layanan":"Poli Umum","id_layanan":1}
+[2025-05-29 13:58:42] PARSED DATA: {"kode":"A-5","layanan":"Poli Umum","id_layanan":1}
+[2025-05-29 13:58:42] ✅ Data antrian disimpan: A-5 | POLI UMUM
+[2025-05-29 13:58:42] Mode printer HTML biasa
+[2025-05-29 13:58:42] ✅ HTML cetak disiapkan: print_temp.html
+[2025-05-29 13:58:47] RAW POST: {"kode":"A-6","layanan":"Poli Umum","id_layanan":1}
+[2025-05-29 13:58:47] PARSED DATA: {"kode":"A-6","layanan":"Poli Umum","id_layanan":1}
+[2025-05-29 13:58:47] ✅ Data antrian disimpan: A-6 | POLI UMUM
+[2025-05-29 13:58:47] Mode printer HTML biasa
+[2025-05-29 13:58:47] ✅ HTML cetak disiapkan: print_temp.html
+[2025-05-29 13:58:52] RAW POST: {"kode":"B-4","layanan":"Poli Khusus","id_layanan":22}
+[2025-05-29 13:58:52] PARSED DATA: {"kode":"B-4","layanan":"Poli Khusus","id_layanan":22}
+[2025-05-29 13:58:52] ✅ Data antrian disimpan: B-4 | POLI KHUSUS
+[2025-05-29 13:58:52] Mode printer HTML biasa
+[2025-05-29 13:58:52] ✅ HTML cetak disiapkan: print_temp.html
+[2025-05-29 13:58:57] RAW POST: {"kode":"B-5","layanan":"Poli Khusus","id_layanan":22}
+[2025-05-29 13:58:57] PARSED DATA: {"kode":"B-5","layanan":"Poli Khusus","id_layanan":22}
+[2025-05-29 13:58:57] ✅ Data antrian disimpan: B-5 | POLI KHUSUS
+[2025-05-29 13:58:57] Mode printer HTML biasa
+[2025-05-29 13:58:57] ✅ HTML cetak disiapkan: print_temp.html
+[2025-05-29 13:59:20] RAW POST: {"kode":"D-10","layanan":"Poli Gizi","id_layanan":24}
+[2025-05-29 13:59:20] PARSED DATA: {"kode":"D-10","layanan":"Poli Gizi","id_layanan":24}
+[2025-05-29 13:59:20] ✅ Data antrian disimpan: D-10 | POLI GIZI
+[2025-05-29 13:59:20] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-05-29 13:59:20] ✅ Cetak sukses (ESC/POS)
+[2025-05-29 13:59:31] RAW POST: {"kode":"B-6","layanan":"Poli Khusus","id_layanan":22}
+[2025-05-29 13:59:31] PARSED DATA: {"kode":"B-6","layanan":"Poli Khusus","id_layanan":22}
+[2025-05-29 13:59:31] ✅ Data antrian disimpan: B-6 | POLI KHUSUS
+[2025-05-29 13:59:31] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-05-29 13:59:32] ✅ Cetak sukses (ESC/POS)
+[2025-05-29 14:38:13] RAW POST: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-05-29 14:38:13] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-05-29 14:38:13] ✅ Data antrian disimpan: A-1 | POLI UMUM
+[2025-05-29 14:38:13] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-05-29 14:38:13] ✅ Cetak sukses (ESC/POS)
+[2025-05-29 14:38:34] RAW POST: {"kode":"A-2","layanan":"Poli Umum","id_layanan":1}
+[2025-05-29 14:38:34] PARSED DATA: {"kode":"A-2","layanan":"Poli Umum","id_layanan":1}
+[2025-05-29 14:38:34] ✅ Data antrian disimpan: A-2 | POLI UMUM
+[2025-05-29 14:38:34] Mode printer HTML biasa
+[2025-05-29 14:38:34] ✅ HTML cetak disiapkan: print_temp.html
+[2025-05-29 14:46:03] RAW POST: {"kode":"F-1","layanan":"Lansia","id_layanan":29}
+[2025-05-29 14:46:03] PARSED DATA: {"kode":"F-1","layanan":"Lansia","id_layanan":29}
+[2025-05-29 14:46:03] ✅ Data antrian disimpan: F-1 | LANSIA
+[2025-05-29 14:46:03] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-05-29 14:46:04] ✅ Cetak sukses (ESC/POS)
+[2025-05-29 14:46:28] RAW POST: {"kode":"F-2","layanan":"Lansia","id_layanan":29}
+[2025-05-29 14:46:28] PARSED DATA: {"kode":"F-2","layanan":"Lansia","id_layanan":29}
+[2025-05-29 14:46:28] ✅ Data antrian disimpan: F-2 | LANSIA
+[2025-05-29 14:46:28] Mode printer HTML biasa
+[2025-05-29 14:46:28] ✅ HTML cetak disiapkan: print_temp.html
+[2025-05-29 14:49:32] RAW POST: {"kode":"B-1","layanan":"Poli Khusus","id_layanan":22}
+[2025-05-29 14:49:32] PARSED DATA: {"kode":"B-1","layanan":"Poli Khusus","id_layanan":22}
+[2025-05-29 14:49:32] ✅ Data antrian disimpan: B-1 | POLI KHUSUS
+[2025-05-29 14:49:32] Mode printer HTML biasa
+[2025-05-29 14:49:32] ✅ HTML cetak disiapkan: print_temp.html
+[2025-05-29 14:50:08] RAW POST: {"kode":"C-1","layanan":"Poli Gigi","id_layanan":23}
+[2025-05-29 14:50:08] PARSED DATA: {"kode":"C-1","layanan":"Poli Gigi","id_layanan":23}
+[2025-05-29 14:50:08] ✅ Data antrian disimpan: C-1 | POLI GIGI
+[2025-05-29 14:50:08] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-05-29 14:50:08] ✅ Cetak sukses (ESC/POS)
+[2025-05-29 14:50:15] RAW POST: {"kode":"D-1","layanan":"Poli Gizi","id_layanan":24}
+[2025-05-29 14:50:15] PARSED DATA: {"kode":"D-1","layanan":"Poli Gizi","id_layanan":24}
+[2025-05-29 14:50:15] ✅ Data antrian disimpan: D-1 | POLI GIZI
+[2025-05-29 14:50:15] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-05-29 14:50:15] ✅ Cetak sukses (ESC/POS)
+[2025-07-31 20:00:44] RAW POST: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-07-31 20:00:44] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-07-31 20:00:44] ✅ Data antrian disimpan: A-1 | POLI UMUM
+[2025-07-31 20:00:44] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-08-01 05:28:21] RAW POST: {"kode":"D-1","layanan":"Poli Ibu","id_layanan":30}
+[2025-08-01 05:28:21] PARSED DATA: {"kode":"D-1","layanan":"Poli Ibu","id_layanan":30}
+[2025-08-01 05:28:21] ✅ Data antrian disimpan: D-1 | POLI IBU
+[2025-08-01 05:28:21] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-08-01 05:30:25] RAW POST: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-08-01 05:30:25] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-08-01 05:30:25] ✅ Data antrian disimpan: A-1 | POLI UMUM
+[2025-08-01 05:30:25] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-08-01 05:32:13] RAW POST: {"kode":"B-1","layanan":"Poli Anak","id_layanan":22}
+[2025-08-01 05:32:13] PARSED DATA: {"kode":"B-1","layanan":"Poli Anak","id_layanan":22}
+[2025-08-01 05:32:13] ✅ Data antrian disimpan: B-1 | POLI ANAK
+[2025-08-01 05:32:13] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-08-01 05:33:59] RAW POST: {"kode":"D-2","layanan":"Loket D Poli Ibu","id_layanan":30}
+[2025-08-01 05:33:59] PARSED DATA: {"kode":"D-2","layanan":"Loket D Poli Ibu","id_layanan":30}
+[2025-08-01 05:33:59] ✅ Data antrian disimpan: D-2 | LOKET D POLI IBU
+[2025-08-01 05:33:59] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-08-01 05:36:12] RAW POST: {"kode":"A-2","layanan":"Poli Umum","id_layanan":1}
+[2025-08-01 05:36:12] PARSED DATA: {"kode":"A-2","layanan":"Poli Umum","id_layanan":1}
+[2025-08-01 05:36:12] ✅ Data antrian disimpan: A-2 | POLI UMUM
+[2025-08-01 05:36:12] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-08-01 05:37:49] RAW POST: {"kode":"A-3","layanan":"Poli Umum","id_layanan":1}
+[2025-08-01 05:37:49] PARSED DATA: {"kode":"A-3","layanan":"Poli Umum","id_layanan":1}
+[2025-08-01 05:37:49] ✅ Data antrian disimpan: A-3 | POLI UMUM
+[2025-08-01 05:37:49] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-08-01 05:39:44] RAW POST: {"kode":"A-4","layanan":"Poli Umum","id_layanan":1}
+[2025-08-01 05:39:44] PARSED DATA: {"kode":"A-4","layanan":"Poli Umum","id_layanan":1}
+[2025-08-01 05:39:44] ✅ Data antrian disimpan: A-4 | POLI UMUM
+[2025-08-01 05:39:44] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-08-05 19:39:18] RAW POST: {"kode":"A-5","layanan":"Poli Umum","id_layanan":1}
+[2025-08-05 19:39:18] PARSED DATA: {"kode":"A-5","layanan":"Poli Umum","id_layanan":1}
+[2025-08-05 19:39:18] ✅ Data antrian disimpan: A-5 | POLI UMUM
+[2025-08-05 19:39:18] Mode printer ESC/POS - printer: RONGTA 58mm Series Printer
+[2025-08-05 19:39:42] RAW POST: {"kode":"A-6","layanan":"Poli Umum","id_layanan":1}
+[2025-08-05 19:39:42] PARSED DATA: {"kode":"A-6","layanan":"Poli Umum","id_layanan":1}
+[2025-08-05 19:39:43] ✅ Data antrian disimpan: A-6 | POLI UMUM
+[2025-08-05 19:39:43] Mode printer HTML biasa
+[2025-08-05 19:39:43] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-05 19:55:29] RAW POST: {"kode":"B-1","layanan":"Poli Anak","id_layanan":22}
+[2025-08-05 19:55:29] PARSED DATA: {"kode":"B-1","layanan":"Poli Anak","id_layanan":22}
+[2025-08-05 19:55:29] ✅ Data antrian disimpan: B-1 | POLI ANAK
+[2025-08-05 19:55:29] Mode printer HTML biasa
+[2025-08-05 19:55:29] ✅ HTML cetak disiapkan: print_temp.html
