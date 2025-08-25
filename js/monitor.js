@@ -84,16 +84,28 @@ source.onmessage = function (event) {
 
 // Fungsi memutar audio berurutan
 async function playAudioSequence(files) {
+    // Turunkan volume video sebelum mulai
+    if (window.player && typeof window.player.setVolume === "function") {
+        console.log("Turunkan volume video ke 5");
+        window.player.setVolume(5); 
+    }
+
     for (const file of files) {
         await new Promise((resolve) => {
             const audio = new Audio(file);
             audio.onended = resolve;
             audio.onerror = () => {
                 console.warn("Gagal memuat file audio:", file);
-                resolve(); // Lanjut walaupun gagal
+                resolve();
             };
             audio.play();
         });
+    }
+
+    // Naikkan volume video setelah semua audio selesai
+    if (window.player && typeof window.player.setVolume === "function") {
+        console.log("Kembalikan volume video ke 30");
+        window.player.setVolume(30);
     }
 }
 

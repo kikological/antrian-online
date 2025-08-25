@@ -57,7 +57,7 @@ $videoFile = $data['video_file'] ?? '';
         <div class="modal-content">
             <p>Klik tombol Aktifkan Audio + Fullscreen untuk </p>
             <p>Mengaktifkan audio di halaman ini dan membuat halaman menjadi fullscreen</p>
-            <button class="btn-suara" onclick="mulaiPemantauan(); masukFullscreen(); tutupModal()">🔊 Aktifkan Audio + Fullscreen</button>
+            <button class="btn-suara" onclick="handleAktifkanAudio()">🔊 Aktifkan Audio + Fullscreen</button>
         </div>
     </div>
 
@@ -85,14 +85,15 @@ $videoFile = $data['video_file'] ?? '';
                 <?php if (isYoutubeUrl($videoFile)): ?>
                     <div class="youtube-wrapper">
                         <iframe
-                            src="<?= embedYoutube($videoFile) ?>"
+                            id="ytPlayer"
+                            src="<?= embedYoutube($videoFile) ?>&enablejsapi=1"
                             frameborder="0"
-                            allow="autoplay; fullscreen"
+                            allow="autoplay; fullscreen; encrypted-media"
                             allowfullscreen>
                         </iframe>
                     </div>
                 <?php elseif (!empty($videoFile)): ?>
-                    <video autoplay muted loop>
+                    <video id="myVideo" autoplay muted loop>
                         <source src="../<?= htmlspecialchars($videoFile) ?>" type="video/mp4">
                         Browser Anda tidak mendukung video.
                     </video>
@@ -141,17 +142,27 @@ $videoFile = $data['video_file'] ?? '';
     <script>
         // API Cuaca (Gunakan API Key dari https://www.weatherapi.com/)
         async function fetchWeather() {
-            try {
-               // let response = await fetch('https://api.weatherapi.com/v1/current.json?key=05518aa322c34d12bb561255252203&q=palangkaraya');
-               // if (!response.ok) throw new Error("Gagal memuat data cuaca");
+			const apiKey = "af3b303bcc114cbd88c132602253107"; // ganti dengan API Key dari weatherapi.com
+			const city = "Kudus";
+			const url = `https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${city}&lang=id`;
 
-               // let data = await response.json();
-               // document.getElementById("weather").innerHTML = `<i class="fa-solid fa-temperature-half"></i> ${data.current.temp_c}°C | ${data.location.name}`;
-            } catch (error) {
-                document.getElementById("weather").innerHTML = "⛅ Gagal memuat cuaca";
-                console.error("Error fetching weather:", error);
-            }
-        }
+		try {
+			const res = await fetch(url);
+			const data = await res.json();
+
+			const weatherEl = document.getElementById("weather");
+			if (weatherEl) {
+					weatherEl.innerHTML = `🌡️ ${data.current.temp_c}°C | ${data.location.name}`;
+				}
+			} catch (err) {
+				console.error("Gagal ambil cuaca:", err);
+				const weatherEl = document.getElementById("weather");
+			if (weatherEl) {
+				weatherEl.innerText = "Cuaca tidak tersedia";
+				}
+			}
+		}
+
 
         // Fungsi untuk menampilkan waktu real-time
         document.addEventListener("DOMContentLoaded", function() {
@@ -222,6 +233,52 @@ $videoFile = $data['video_file'] ?? '';
         });
     </script>
     <script src="../js/monitor.js"></script>
+
+
+
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script>
+var player;
+function onYouTubeIframeAPIReady() {
+    window.player = new YT.Player('ytPlayer', {
+        events: {
+            'onReady': function (event) {
+                event.target.mute();
+                event.target.playVideo();
+                event.target.setVolume(30); // 🔑 paten 30%
+            }
+        }
+    });
+}
+
+function handleAktifkanAudio() {
+    if (player && typeof player.unMute === "function") {
+        // Mulai ulang video (opsional, biar audio jelas)
+        player.seekTo(0);
+        player.unMute();
+        player.playVideo();
+    }
+
+    // Fullscreen halaman (bukan iframe saja)
+    setTimeout(() => {
+        let elem = document.documentElement; // seluruh layout
+        if (elem.requestFullscreen) {
+            elem.requestFullscreen();
+        } else if (elem.webkitRequestFullscreen) {
+            elem.webkitRequestFullscreen();
+        } else if (elem.msRequestFullscreen) {
+            elem.msRequestFullscreen();
+        }
+    }, 100);
+
+    // Fungsi lama tetap dijalankan
+    if (typeof mulaiPemantauan === "function") mulaiPemantauan();
+    if (typeof tutupModal === "function") tutupModal();
+}
+
+</script>
+
 </body>
 
 </html>

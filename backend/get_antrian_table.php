@@ -9,6 +9,7 @@ if (!isset($_SESSION['loket_id'])) {
 $loket_id = $_SESSION['loket_id'];
 $tanggal_hari_ini = date('Y-m-d');
 
+
 // Query 1: Statistik layanan
 $query = "
     SELECT 
@@ -65,6 +66,7 @@ $stmt2->execute();
 $result_menunggu = $stmt2->get_result();
 ?>
 
+
 <!-- Tabel Statistik Layanan -->
 <h5>Statistik Layanan</h5>
 <table class="table table-striped">
@@ -88,7 +90,9 @@ $result_menunggu = $stmt2->get_result();
                 <td class="dipanggil"><?= $row['nomor_terakhir_dipanggil'] ?? '-' ?></td>
                 <td>
                     <button class="btn btn-success panggil-btn" data-id="<?= $row['id_layanan'] ?>">🔊 Panggil</button>
-                    <button class="btn btn-warning recall-btn" data-id="<?= $row['id_layanan'] ?>">🔁 Recall</button>
+                    <button class="btn btn-warning recall-btn" data-id="<?= $row['id_layanan'] ?>">🔁 Panggil Ulang</button>
+                    <!-- 🔹 Tombol Recall Manual -->
+                    <button class="btn btn-danger recall-manual-btn" onclick="recallManual()">✍️ Panggil Manual</button>
                 </td>
             </tr>
         <?php endwhile; ?>

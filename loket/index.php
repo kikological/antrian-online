@@ -10,16 +10,8 @@ $tanggal_hari_ini = date('Y-m-d');
 $loket_id = $_SESSION['loket_id'];
 $loket_nama = $_SESSION['nama'];
 
-// Ambil layanan yang ditangani oleh loket ini
-$query = "SELECT l.* FROM layanan l
-          JOIN loket_layanan ll ON l.id = ll.id_layanan
-          WHERE ll.id_pengguna = ?
-          ORDER BY l.id ASC";
-$stmt = $conn->prepare($query);
-$stmt->bind_param("i", $loket_id);
-$stmt->execute();
-$layanan = $stmt->get_result();
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -230,10 +222,31 @@ $layanan = $stmt->get_result();
         });
     </script>
 
+<script>
+async function recallManual() {
+    let nomor = prompt("Masukkan nomor antrian yang ingin dipanggil ulang:");
+    if (nomor && !isNaN(nomor)) {
+        try {
+            const res = await fetch("../backend/recall_manual.php?nomor=" + nomor);
+            const data = await res.json();
+
+            if (data.success) {
+                alert("Nomor antrian " + nomor + " berhasil dipanggil ulang");
+                location.reload(); // refresh tabel
+            } else {
+                alert("Recall gagal: " + data.message);
+            }
+        } catch (err) {
+            alert("Terjadi error saat recall manual: " + err);
+        }
+    }
+}
+</script>
+    
+
 </body>
 
 </html>
-
 
 
 <!DOCTYPE html>

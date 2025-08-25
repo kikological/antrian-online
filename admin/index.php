@@ -154,17 +154,26 @@ for ($i = 29; $i >= 0; $i--) {
     <script>
         // API Cuaca (Gunakan API Key dari https://www.weatherapi.com/)
         async function fetchWeather() {
-            try {
-               // let response = await fetch('https://api.weatherapi.com/v1/current.json?key=05518aa322c34d12bb561255252203&q=palangkaraya');
-                if (!response.ok) throw new Error("Gagal memuat data cuaca");
+			const apiKey = "af3b303bcc114cbd88c132602253107"; // ganti dengan API Key dari weatherapi.com
+			const city = "Kudus";
+			const url = `https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${city}&lang=id`;
 
-                let data = await response.json();
-                document.getElementById("weather").innerHTML = `${data.current.temp_c}°C | ${data.location.name}`;
-            } catch (error) {
-                document.getElementById("weather").innerHTML = "⛅ Gagal memuat cuaca";
-                console.error("Error fetching weather:", error);
-            }
-        }
+		try {
+			const res = await fetch(url);
+			const data = await res.json();
+
+			const weatherEl = document.getElementById("weather");
+			if (weatherEl) {
+					weatherEl.innerHTML = `🌡️ ${data.current.temp_c}°C | ${data.location.name}`;
+				}
+			} catch (err) {
+				console.error("Gagal ambil cuaca:", err);
+				const weatherEl = document.getElementById("weather");
+			if (weatherEl) {
+				weatherEl.innerText = "Cuaca tidak tersedia";
+				}
+			}
+		}
 
         function updateClock() {
             let now = new Date();

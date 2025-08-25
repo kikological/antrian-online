@@ -634,3 +634,123 @@
 [2025-08-05 19:55:29] ✅ Data antrian disimpan: B-1 | POLI ANAK
 [2025-08-05 19:55:29] Mode printer HTML biasa
 [2025-08-05 19:55:29] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-23 13:47:51] RAW POST: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 13:47:51] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 13:47:51] ✅ Data antrian disimpan: A-1 | POLI UMUM
+[2025-08-23 13:47:51] Mode printer HTML biasa
+[2025-08-23 13:47:51] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-23 13:58:57] RAW POST: {"kode":"A-2","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 13:58:57] PARSED DATA: {"kode":"A-2","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 13:58:57] ✅ Data antrian disimpan: A-2 | POLI UMUM
+[2025-08-23 13:58:57] Mode printer HTML biasa
+[2025-08-23 13:58:57] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-23 13:59:30] RAW POST: {"kode":"A-3","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 13:59:30] PARSED DATA: {"kode":"A-3","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 13:59:30] ✅ Data antrian disimpan: A-3 | POLI UMUM
+[2025-08-23 13:59:30] Mode printer HTML biasa
+[2025-08-23 13:59:30] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-23 14:00:52] RAW POST: {"kode":"A-4","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:00:52] PARSED DATA: {"kode":"A-4","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:00:52] ✅ Data antrian disimpan: A-4 | POLI UMUM
+[2025-08-23 14:00:52] Mode printer HTML biasa
+[2025-08-23 14:00:52] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-23 14:05:14] RAW POST: {"kode":"A-5","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:05:14] PARSED DATA: {"kode":"A-5","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:05:14] ✅ Data antrian disimpan: A-5 | POLI UMUM
+[2025-08-23 14:05:14] Mode printer HTML biasa
+[2025-08-23 14:05:14] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-23 14:05:33] RAW POST: {"kode":"A-6","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:05:33] PARSED DATA: {"kode":"A-6","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:05:33] ✅ Data antrian disimpan: A-6 | POLI UMUM
+[2025-08-23 14:05:33] Mode printer HTML biasa
+[2025-08-23 14:05:33] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-23 14:06:42] RAW POST: {"kode":"A-7","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:06:42] PARSED DATA: {"kode":"A-7","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:06:42] ✅ Data antrian disimpan: A-7 | POLI UMUM
+[2025-08-23 14:06:42] Mode printer ESC/POS - printer: Microsoft Print to PDF
+[2025-08-23 14:06:42] ❌ ERROR CETAK: Failed to print. Command "smbclient '//id-dci-web1158.main-hosting.eu/Microsoft Print to PDF' -c 'print -' -N -m SMB2" failed with exit code 127: sh: smbclient: command not found
+[2025-08-23 14:11:25] RAW POST: {"kode":"A-8","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:11:25] PARSED DATA: {"kode":"A-8","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:11:25] ✅ Data antrian disimpan: A-8 | POLI UMUM
+[2025-08-23 14:11:25] Mode printer ESC/POS - printer: Microsoft Print to PDF
+[2025-08-23 14:11:25] ❌ ERROR CETAK: Failed to print. Command "smbclient '//id-dci-web1158.main-hosting.eu/Microsoft Print to PDF' -c 'print -' -N -m SMB2" failed with exit code 127: sh: smbclient: command not found
+[2025-08-23 14:21:30] RAW POST: {"kode":"A-9","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:21:30] PARSED DATA: {"kode":"A-9","layanan":"Poli Umum","id_layanan":1}
+[2025-08-23 14:21:30] ✅ Data antrian disimpan: A-9 | POLI UMUM
+[2025-08-23 14:21:30] Mode printer ESC/POS - printer: Microsoft Print to PDF
+[2025-08-23 14:21:30] ❌ ERROR CETAK: Failed to print. Command "smbclient '//id-dci-web1158.main-hosting.eu/Microsoft Print to PDF' -c 'print -' -N -m SMB2" failed with exit code 127: sh: smbclient: command not found
+[2025-08-24 00:50:15] RAW POST: {"kode":"A-10","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 00:50:15] PARSED DATA: {"kode":"A-10","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 00:50:15] ✅ Data antrian disimpan: A-10 | POLI UMUM
+[2025-08-24 00:50:15] Mode printer ESC/POS - printer: Microsoft Print to PDF
+[2025-08-24 00:50:15] ❌ ERROR CETAK: Failed to print. Command "smbclient '//id-dci-web1158.main-hosting.eu/Microsoft Print to PDF' -c 'print -' -N -m SMB2" failed with exit code 127: sh: smbclient: command not found
+[2025-08-24 11:05:01] RAW POST: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 11:05:01] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 11:05:01] ✅ Data antrian disimpan: A-1 | POLI UMUM
+[2025-08-24 11:05:01] Mode printer ESC/POS - printer: Microsoft Print to PDF
+[2025-08-24 11:05:02] ❌ ERROR CETAK: Failed to print. Command "smbclient '//id-dci-web1158.main-hosting.eu/Microsoft Print to PDF' -c 'print -' -N -m SMB2" failed with exit code 127: sh: smbclient: command not found
+[2025-08-24 11:05:08] RAW POST: {"kode":"A-2","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 11:05:08] PARSED DATA: {"kode":"A-2","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 11:05:08] ✅ Data antrian disimpan: A-2 | POLI UMUM
+[2025-08-24 11:05:08] Mode printer ESC/POS - printer: Microsoft Print to PDF
+[2025-08-24 11:05:08] ❌ ERROR CETAK: Failed to print. Command "smbclient '//id-dci-web1158.main-hosting.eu/Microsoft Print to PDF' -c 'print -' -N -m SMB2" failed with exit code 127: sh: smbclient: command not found
+[2025-08-24 21:48:15] RAW POST: {"kode":"A-3","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 21:48:15] PARSED DATA: {"kode":"A-3","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 21:48:15] ✅ Data antrian disimpan: A-3 | POLI UMUM
+[2025-08-24 21:48:15] Mode printer ESC/POS - printer: Microsoft Print to PDF
+[2025-08-24 21:48:16] ❌ ERROR CETAK: Failed to print. Command "smbclient '//id-dci-web1158.main-hosting.eu/Microsoft Print to PDF' -c 'print -' -N -m SMB2" failed with exit code 127: sh: smbclient: command not found
+[2025-08-24 21:58:25] RAW POST: {"kode":"A-4","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 21:58:25] PARSED DATA: {"kode":"A-4","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 21:58:25] ✅ Data antrian disimpan: A-4 | POLI UMUM
+[2025-08-24 21:58:25] Mode printer HTML biasa
+[2025-08-24 21:58:25] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-24 21:58:48] RAW POST: {"kode":"A-5","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 21:58:48] PARSED DATA: {"kode":"A-5","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 21:58:48] ✅ Data antrian disimpan: A-5 | POLI UMUM
+[2025-08-24 21:58:48] Mode printer HTML biasa
+[2025-08-24 21:58:48] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-24 22:36:40] RAW POST: {"kode":"A-6","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 22:36:40] PARSED DATA: {"kode":"A-6","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 22:36:40] ✅ Data antrian disimpan: A-6 | POLI UMUM
+[2025-08-24 22:36:40] Mode printer HTML biasa
+[2025-08-24 22:36:40] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-24 23:59:27] RAW POST: {"kode":"A-7","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 23:59:27] PARSED DATA: {"kode":"A-7","layanan":"Poli Umum","id_layanan":1}
+[2025-08-24 23:59:27] ✅ Data antrian disimpan: A-7 | POLI UMUM
+[2025-08-24 23:59:27] Mode printer HTML biasa
+[2025-08-24 23:59:27] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-25 00:00:24] RAW POST: {"kode":"A-8","layanan":"Poli Umum","id_layanan":1}
+[2025-08-25 00:00:24] PARSED DATA: {"kode":"A-8","layanan":"Poli Umum","id_layanan":1}
+[2025-08-25 00:00:24] ✅ Data antrian disimpan: A-8 | POLI UMUM
+[2025-08-25 00:00:24] Mode printer HTML biasa
+[2025-08-25 00:00:24] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-25 19:19:53] RAW POST: {"kode":"A-9","layanan":"Poli Umum","id_layanan":1}
+[2025-08-25 19:19:53] PARSED DATA: {"kode":"A-9","layanan":"Poli Umum","id_layanan":1}
+[2025-08-25 19:19:53] ✅ Data antrian disimpan: A-9 | POLI UMUM
+[2025-08-25 19:19:53] Mode printer HTML biasa
+[2025-08-25 19:19:53] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-25 19:24:41] RAW POST: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-08-25 19:24:41] PARSED DATA: {"kode":"A-1","layanan":"Poli Umum","id_layanan":1}
+[2025-08-25 19:24:41] ✅ Data antrian disimpan: A-1 | POLI UMUM
+[2025-08-25 19:24:41] Mode printer HTML biasa
+[2025-08-25 19:24:41] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-25 20:46:34] RAW POST: {"kode":"D-1","layanan":"Poli Ibu","id_layanan":30}
+[2025-08-25 20:46:34] PARSED DATA: {"kode":"D-1","layanan":"Poli Ibu","id_layanan":30}
+[2025-08-25 20:46:34] ✅ Data antrian disimpan: D-1 | POLI IBU
+[2025-08-25 20:46:34] Mode printer HTML biasa
+[2025-08-25 20:46:34] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-25 20:47:33] RAW POST: {"kode":"E-1","layanan":"Poli Imunisasi","id_layanan":31}
+[2025-08-25 20:47:33] PARSED DATA: {"kode":"E-1","layanan":"Poli Imunisasi","id_layanan":31}
+[2025-08-25 20:47:33] ✅ Data antrian disimpan: E-1 | POLI IMUNISASI
+[2025-08-25 20:47:33] Mode printer HTML biasa
+[2025-08-25 20:47:33] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-25 20:50:07] RAW POST: {"kode":"C-1","layanan":"Poli Gigi","id_layanan":23}
+[2025-08-25 20:50:07] PARSED DATA: {"kode":"C-1","layanan":"Poli Gigi","id_layanan":23}
+[2025-08-25 20:50:07] ✅ Data antrian disimpan: C-1 | POLI GIGI
+[2025-08-25 20:50:07] Mode printer HTML biasa
+[2025-08-25 20:50:07] ✅ HTML cetak disiapkan: print_temp.html
+[2025-08-25 20:50:12] RAW POST: {"kode":"B-1","layanan":"Poli Anak","id_layanan":22}
+[2025-08-25 20:50:12] PARSED DATA: {"kode":"B-1","layanan":"Poli Anak","id_layanan":22}
+[2025-08-25 20:50:12] ✅ Data antrian disimpan: B-1 | POLI ANAK
+[2025-08-25 20:50:12] Mode printer HTML biasa
+[2025-08-25 20:50:12] ✅ HTML cetak disiapkan: print_temp.html

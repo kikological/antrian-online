@@ -1,5 +1,8 @@
                 <?php
                 require '../db/config.php';
+
+// Set timezone ke Asia/Jakarta (GMT+7)
+date_default_timezone_set('Asia/Jakarta');
                 $tanggal_hari_ini = date('Y-m-d');
                 ?>
                 <!DOCTYPE html>
