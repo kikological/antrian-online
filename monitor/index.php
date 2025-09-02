@@ -110,17 +110,45 @@ $videoFile = $data['video_file'] ?? '';
                 return strpos($url, 'youtube.com') !== false || strpos($url, 'youtu.be') !== false;
             }
 
-            function embedYoutube($url)
-            {
-                if (
-                    preg_match('/youtu\.be\/([^\?&]+)/', $url, $matches) ||
-                    preg_match('/youtube\.com.*[?&]v=([^\?&]+)/', $url, $matches)
-                ) {
-                    $videoId = $matches[1];
-                    return "https://www.youtube.com/embed/$videoId?autoplay=1&mute=1&loop=1&playlist=$videoId";
+            function embedYoutube($urlOrList) {
+                // Kalau ada banyak link dipisahkan koma
+                 if (strpos($urlOrList, ',') !== false) {
+                $urls = explode(',', $urlOrList);
+                $videoIds = [];
+
+            foreach ($urls as $url) {
+            $url = trim($url);
+            if (preg_match('/youtu\.be\/([^\?&]+)/', $url, $m) ||
+                preg_match('/youtube\.com.*[?&]v=([^\?&]+)/', $url, $m)) {
+                $videoIds[] = $m[1];
                 }
-                return $url;
             }
+
+            if (!empty($videoIds)) {
+                $first = array_shift($videoIds);
+                $playlist = implode(',', $videoIds);
+                return "https://www.youtube.com/embed/$first?autoplay=1&mute=1&loop=1&playlist=$playlist";
+                }
+            }
+
+            // Kalau URL ada parameter ?list= (playlist resmi atau radio mix)
+            if (preg_match('/[?&]v=([^\?&]+)/', $urlOrList, $vm) &&
+                preg_match('/[?&]list=([^\?&]+)/', $urlOrList, $lm)) {
+                $videoId = $vm[1];
+                $listId  = $lm[1];
+                return "https://www.youtube.com/embed/$videoId?autoplay=1&mute=1&loop=1&list=$listId";
+                }
+
+            // Default: link video tunggal
+            if (preg_match('/youtu\.be\/([^\?&]+)/', $urlOrList, $m) ||
+                preg_match('/youtube\.com.*[?&]v=([^\?&]+)/', $urlOrList, $m)) {
+                $videoId = $m[1];
+                return "https://www.youtube.com/embed/$videoId?autoplay=1&mute=1&loop=1&playlist=$videoId";
+                }
+
+            return $urlOrList; // fallback kalau bukan YouTube
+            }
+
             ?>
             <div class="right-section">
                 <div class="weather-time-card">
@@ -141,7 +169,7 @@ $videoFile = $data['video_file'] ?? '';
     </main>
     <script>
         // API Cuaca (Gunakan API Key dari https://www.weatherapi.com/)
-        async function fetchWeather() {
+                async function fetchWeather() {
 			const apiKey = "af3b303bcc114cbd88c132602253107"; // ganti dengan API Key dari weatherapi.com
 			const city = "Kudus";
 			const url = `https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${city}&lang=id`;
@@ -162,7 +190,6 @@ $videoFile = $data['video_file'] ?? '';
 				}
 			}
 		}
-
 
         // Fungsi untuk menampilkan waktu real-time
         document.addEventListener("DOMContentLoaded", function() {
